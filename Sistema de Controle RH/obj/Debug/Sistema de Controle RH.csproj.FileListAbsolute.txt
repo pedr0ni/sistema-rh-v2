@@ -1,0 +1,20 @@
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\bin\Debug\Sistema de Controle RH.exe.config
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\bin\Debug\Sistema de Controle RH.exe
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\bin\Debug\Sistema de Controle RH.pdb
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema_de_Controle_RH.Form1.resources
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema_de_Controle_RH.Properties.Resources.resources
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.csproj.GenerateResource.Cache
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.csproj.CoreCompileInputs.cache
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.exe
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.pdb
+C:\Users\18051904\Desktop\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.csprojResolveAssemblyReference.cache
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\bin\Debug\Sistema de Controle RH.exe.config
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\bin\Debug\Sistema de Controle RH.exe
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\bin\Debug\Sistema de Controle RH.pdb
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.csprojAssemblyReference.cache
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema_de_Controle_RH.MainForm.resources
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema_de_Controle_RH.Properties.Resources.resources
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.csproj.GenerateResource.cache
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.csproj.CoreCompileInputs.cache
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.exe
+C:\Users\PEDRONI\source\repos\Sistema de Controle RH\Sistema de Controle RH\obj\Debug\Sistema de Controle RH.pdb

@@ -62,12 +62,10 @@ namespace Sistema_de_Controle_RH
         }
 
         /*
-         * @return string
-         * 
-         * @param int tamanho 
-         * @param string caracter
-         * 
-         */ 
+         * @param {int} tamanho 
+         * @param {string} caracter
+         * @returns {string} 
+         */
         private string gerarLinhas(int tamanho, string caracter)
         {
             string res = "";
@@ -75,7 +73,6 @@ namespace Sistema_de_Controle_RH
             {
                 res += caracter;
             }
-
             return res;
         }
     }
